@@ -14,6 +14,7 @@ public class Ex
                 arr[i]=sc.nextInt();
             }
             System.out.println(Arrays.toString(arr));
+            System.out.println("hello world");
             System.out.println(arr[n+1]);
 
 

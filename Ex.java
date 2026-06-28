@@ -5,7 +5,7 @@ public class Ex
     {
         Scanner sc=new Scanner(System.in);
         try{
-            System.out.println("Enter Array size: ");
+            System.out.println("EnterArray size: ");
             int n=sc.nextInt();
             int[] arr=new int[n];
             System.out.println("Enter Array Elements: ");

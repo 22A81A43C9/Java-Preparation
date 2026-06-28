@@ -15,7 +15,7 @@ public class Ex
             }
             System.out.println(Arrays.toString(arr));
             System.out.println("helloworld ");
-            System.out.println(arr[n+1]);
+            System.out.println(arr[ n+1]);
 
 
         }
